@@ -1,0 +1,8 @@
+# Archivos de compilacion
+build/
+dist/
+nbproject/
+# Archivos suelto
+*.inc
+Makefile
+
