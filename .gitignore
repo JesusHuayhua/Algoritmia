@@ -1,8 +1,10 @@
-# Archivos de compilacion
-build/
-dist/
-nbproject/
-# Archivos suelto
-*.inc
+# Archivos de compilación
 Makefile
-
+build/
+nbproject/
+dist/
+*.inc
+#Previsualizacion de la wiki
+AlgoritmiaPasada/
+wiki/
+CloneTest/

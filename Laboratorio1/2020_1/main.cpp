@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: Jesus Huayhua Flores
  * Codigo: 20196201
- * 
+ * Primera Practica del Curso de Algoritmia del ciclo 2020-1
  */
 
 #include <iostream>
@@ -11,8 +11,7 @@
 //using namespace std;
 
 int main(int argc, char** argv) {
-    //    pregunta1();
-    pregunta2();
+    //    Pregunta1();
+    Pregunta2();
     return 0;
 }
-

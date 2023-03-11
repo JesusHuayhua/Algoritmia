@@ -2,7 +2,6 @@
  * File:   pregunta1.h
  * Author: Jesus Huayhua
  *
- * Created on 19 de febrero de 2023, 13:11
  */
 
 #ifndef PREGUNTA1_H

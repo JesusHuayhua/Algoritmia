@@ -183,6 +183,3 @@ void PreguntaB(int *cromosoma, int size,
             << "\ncantidad de Herramientas: " << cantHerramientasReparar
             << "\n" << std::setfill('-') << std::setw(30) << '-' << "\n";
 }
-
-
-
